@@ -1,4 +1,3 @@
-<img width="750" height="751" alt="image" src="https://github.com/user-attachments/assets/002bdad9-1424-4e13-9ffd-b6aa90769827" /># Plant-Species-Image-Classification
 # A. Project Overview
 This project introduces a supervised learning-based multi-class image classification model developed to recognize and categorize 20 different plant species using leaf and plant images. The model was created using Google Teachable Machine, a user-friendly, web-based platform that allows the development of machine learning models without requiring advanced programming skills.
 
