@@ -35,23 +35,27 @@ Scientific Name	        Adiantum raddianum
 
 Description: The Pacific Maidenhair (Adiantum raddianum), often sold as 'Pacific Maid,' is a popular indoor fern featuring delicate, bright green fronds on wiry black stems. Thriving in high humidity, it requires bright indirect light (or part/full shade) and consistent moisture. These ferns are non-toxic to pets and grow well in terrariums or bathrooms.
 
-# 4. Fritz Luthii' Delta Maidenhair Fern
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/49855345-fb9b-4a1a-9050-d23d7af5c4e9" />
+# 4. Brake Fern
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bc79f7ec-d059-48c1-b6dc-8df30d356d3c" />
+
 ,
 Attribute	                Detail
-Common Name	            Fritz Luthii' Delta Maidenhair Fern
-Scientific Name	        Adiantum raddianum 
+Common Name	            Brake Fern
+Scientific Name	        Pteris
 
-Description: This lovely cultivar of A. raddianum has a distinct, large triangular shaped blade.  The pinnae are larger and more deeply lobed than on the cultivars A. raddianum ‘Brilliantelse’ and A. raddianum variegatum ‘Snowflake’, with more space between the segments.  It is more compact than A. raddianum and is noted to have stiffer stipes, which make its fronds slightly more resistant to breaking in rain and wind.  New growth emerges a bright green and fades to a blue-green as the fronds mature.  In our trials ‘Fritz Luthii’ preferred shadier conditions than both ‘Brilliantelse’ and ‘Snowflake’, since it does not produce as much pigment to protect its new fronds, making it an excellent choice for filtered shade or as a houseplant.  For best results water lightly at the base and avoid repeated saturation of the fronds.  For outdoor cultivation situate near the top or middle of a slope; when watering saturate the soil uphill from the fern so it percolates down and avoid frequent overhead watering of the fronds.
+Description:The Brake Fern (Pteris cretica), also known as the Cretan Brake or Ribbon Fern, is a versatile and attractive species of fern native to various parts of Europe, Asia, and Africa. This evergreen perennial is prized for its elegant, arching fronds that can range from light green to silvery-green, often with striking variegation patterns. Pteris cretica is characterized by its distinctive fronds, which are typically divided into long, narrow segments resembling ribbons. These fronds can grow up to 12-24 inches (30-60 cm) in length, creating a lush, cascading effect that makes the plant popular for both indoor and outdoor cultivation. Ribbon Fern’s compact growth habit and ability to thrive in various light conditions contribute to its widespread use as a houseplant.
 
-# 5.  Fine Maidenhair ferns
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/75ea3d5c-e6fb-4370-bbbf-92dce6ae376e" />
+# 5.  Asparagus fern
+<img width="277" height="185" alt="image" src="https://github.com/user-attachments/assets/7f3410b5-19e2-4602-abee-0b2b3607d9a8" />
+
 
 Attribute	                Detail
-Common Name	            Maidenhair ferns
-Scientific Name	        Adiantum raddianum
+Common Name	            Asparagus fern
+Scientific Name	        Asparagus densiflorus
 
-Description: Maidenhair ferns (Adiantum spp.) are delicate-looking, shade-loving plants prized for their fine, airy fronds and dark, wiry stems. They require consistent moisture, high humidity, and bright, indirect light to thrive, typically growing 12–18 inches high, though some varieties differ.
+Description: Asparagus fern is a sprawling shrub native to coastal southeastern South Africa. Despite the common name, it is not a true fern, but is in the asparagus family (Asparagaceae) or the lily family (Liliaceae, which includes plants such as amaryllis, daylilies, hosta, and tulips) depending on the classification system used. It is in the genus Asparagus, which includes the edible A. officinalis, along with about 300 other species. The exact classification of this species is a bit confused, with most references to Asparagus densiflorus, but the names A. aethiopicus, A. sprengeri, and Protasparagus densiflorus are also used as well by some.
+
+
 
 # 6. Lemon Button
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b72b3974-e5a5-4de1-8fe6-b9b7f37d1978" />
@@ -80,14 +84,15 @@ Scientific Name	        Myriopteris lanosa, formerly Cheilanthes lanosa
 
 Description: The Hairy Lip Fern (Myriopteris lanosa, formerly Cheilanthes lanosa) is a hardy, drought-tolerant, evergreen fern native to the eastern US, growing 6–14 inches tall. It features olive-green, soft, hair-covered fronds with dark stems, thriving in full sun to part shade and rocky, well-drained soils.
 
-# 9. Korean Rock Fern
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8706a885-d67e-4b7b-b7cc-bf86f463ed84" />
+# 9. Staghorn Fern
+<img width="251" height="185" alt="image" src="https://github.com/user-attachments/assets/24848d97-ecc5-4093-a4d0-5a68203166b1" />
+
 
 Attribute	                Detail
-Common Name	            Korean Rock Fern
-Scientific Name	        Polystichum tsus-simense
+Common Name	            Staghorn Fern
+Scientific Name	        Platycerium bifurcatum
 
-Description: Korean Rock Fern (Polystichum tsus-simense) is a small, evergreen, shade-loving perennial native to East Asia, featuring glossy, dark green fronds with black stems and a compact, 12–18 inch, clumping habit. Award-winning and low-maintenance, it is ideal for rock gardens, containers,
+Description: Staghorn ferns belong to the genus Platycerium. While there are 17+ species, the most common, widely cultivated type is Platycerium bifurcatum (Common Staghorn Fern). Another popular large species is Platycerium superbum. They are epiphytic ferns, meaning they grow on trees rather than in soil.
 
 # 10. Japanese Holly Fern
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/aa97df3f-f580-4d94-9e6b-0a0457d75227" />
@@ -116,7 +121,7 @@ Scientific Name	        terrestrial Polystichum polyblepharum
 
 Description: Tassel ferns are unique,, slow-growing plants with a distinctive, cascading, or upright, tassel-like foliage, often used as ornamental houseplants or in shade gardens. Primarily, they are recognized either as epiphytic Huperzia species (often grown in hanging baskets) or the hardy, terrestrial Polystichum polyblepharum (Japanese tassel fern)
 
-# 13. Brake ferns or Table ferns
+# 13. Table ferns
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9925156f-e5ec-4867-9fee-8ca53d7ce6e8" />
 
 Attribute	                Detail
@@ -143,23 +148,25 @@ Scientific Name	       Asplenium bulbiferum
 
 Description: The Mother Fern (Asplenium bulbiferum), also known as hen and chickens fern, is a, hardy, evergreen fern native to New Zealand, popular for its lacy, bright green fronds and unique ability to grow miniature plantlets (babies) directly on its leaves. It thrives in shade, prefers moist soil, and makes an excellent, low-maintenance houseplant or container plant.
 
-# 16. East Indian Holly Fern
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ad65fcca-ed48-47e5-ac7b-82834168725a" />
+# 16. Hart's Tongue fern
+
+<img width="75" height="100" alt="image" src="https://github.com/user-attachments/assets/e7776566-c53f-451c-b323-9b0ef6da2178" />
 
 Attribute	                Detail
-Common Name	            East Indian Holly Fern
-Scientific Name	        Arachniodes simplicior 'Variegata'
+Common Name	           Hart's Tongue fern
+Scientific Name	        Asplenium scolopendrium
 
-Description: The East Indian Holly Fern (Arachniodes simplicior 'Variegata'*) is a top choice for indoor or shade gardening, featuring glossy green fronds with a distinctive gold stripe. It thrives in moist, well-drained soil, is deer-resistant, and thrives in USDA Zones 7–10. It’s an evergreen, low-maintenance plant that adds year-round color.
+Description: Asplenium scolopendrium, commonly called hart’s tongue fern, is a rhizomatous, evergreen fern that typically produces an erect-arching clump of tongue-shaped, leathery, bright green fronds (12-18” long) which may have wavy margins. Sori are arranged on the frond undersides in rows. Primarily native to Europe, although there exists a rare American variety (Asplenium scolopendrium var. americanum) that reportedly may be found in a very limited number of sites in Alabama, Tennessee, Michigan, New York and Ontario. The American variety is currently classified as threatened in its entire range. Plants sold in commerce are the European variety. Synonymous with Phyllitis scolopendrium.
 
-# 17. Button Fern
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/6a6d4401-fe88-481f-bcb9-1053970d6e0a" />
+# 17. Bird Nest Fern
+<img width="150" height="125" alt="image" src="https://github.com/user-attachments/assets/07636595-d621-4f19-aa80-ab4782dc0a96" />
+
 
 Attribute	                Detail
-Common Name	            Button Fern
-Scientific Name	        Pellaea rotundifolia
+Common Name	          Bird Nest Fern
+Scientific Name	       Asplenium nidus
 
-Description: The Button Fern (Pellaea rotundifolia) is a compact, slow-growing houseplant known for its small, round, forest-green leaflets resembling buttons on arching fronds. Thriving in high humidity and moderate temperatures , it requires bright, indirect light and consistent moisture, making it ideal for terrariums, north-facing windowsills, or hanging baskets.
+Description: Asplenium nidus forms large simple fronds visually similar to banana leaves, with the fronds growing to 50–150 centimetres (20–59 in) long and 10–20 centimetres (3.9–7.9 in) broad, with occasional individuals up to 200 cm (79 in) long by up to 60 cm (24 in) wide.[9] They are light green, often crinkled, with a black midrib, and exhibit circinate vernation. Spores develop in sori on the underside of the fronds. These sori form long rows extending out from the midrib on the back of the outer part of the lamina (frond). The fronds roll back as they brown and create a massive leaf nest in the branches and trunks of trees. Some plants in the Philippines have fronds up to 135 cm (53 in) long while only 3.7 cm (1.5 in) wide.[
 
 # 18. Royal fern
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/6adc2aef-220e-4cd7-931d-5a5a7d2d88d4" />
@@ -179,11 +186,13 @@ Scientific Name	       spikemoss or lesser clubmoss
 
 Description: Selaginella, commonly known as spikemoss, is a genus of vascular, non-flowering plants related to ferns rather than true mosses. These moisture-loving, delicate plants feature trailing or erect stems with scale-like leaves and are popular in terrariums or as indoor plants. They require high humidity, consistent moisture, and bright, indirect light
 
-# 20. Baby Tears
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a6ccf057-23f1-4cbf-8246-db7f74361153" />
+# 20. Kangaroo Paw Fern
+<img width="136" height="220" alt="image" src="https://github.com/user-attachments/assets/6c0244f5-6a4c-4557-932c-8055af9b6ce0" />
+
 
 Attribute	                Detail
-Common Name	            Baby Tears
-Scientific Name	        Soleirolia soleirolii
+Common Name	            Kangaroo Paw Fern
+Scientific Name	         Microsorum diversifolium
 
-Description: Baby Tears (Soleirolia soleirolii) is a popular, low-growing, creeping herbaceous perennial known for its tiny leaves and moss-like appearance, often used as a houseplant, in terrariums, or as a shade-loving ground cover. Thriving in high humidity, indirect light, and consistently moist soil, it grows up to 4 inches tall and spreads extensively, making it ideal for hanging baskets or cascading over container edges
+Description: 
+Going by the names Kangaroo Fern, Kangaroo Paw, or Hound’s tongue it's a charming houseplant and one of the simplest and easy going ferns to grow as an indoor plant.The leaves emerge from creeping thin dark green rhizomes, which have a slightly hairy texture. They look more like typical stems than the rhizomes you see on most ferns. The fronds are leaf-like with a glossy finish and the stems are darker, adding a nice contrast.
